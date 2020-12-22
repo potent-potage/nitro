@@ -10,3 +10,9 @@ Tasks:
 - [ ] full-text search
 - [ ] vim style keybindings
 - [ ] optional markdown format
+
+Getting Started:
+```
+npm install --only=dev
+```
+
