@@ -11,6 +11,7 @@ Tasks:
 - [ ] vim style keybindings
 - [ ] optional markdown format
 - [ ] persistent notes
+- [ ] highlight text
 
 Getting Started:
 ```
