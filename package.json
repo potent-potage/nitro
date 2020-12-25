@@ -2,8 +2,9 @@
   "name": "nitro",
   "version": "1.0.0",
   "description": "A cross-platform productivity app intended for note-taking, task-tracking",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
